@@ -10,7 +10,7 @@ const Beds = (props) => {
   return(
       <>
       <Card>
-            <CardContent style={{flex:1, width:'300px', wordWrap:"break-word"}} >
+            <CardContent style={{flex:1, width:'700px'}} >
           <div  style={{color:'black',fontSize:"large"}}>
         What are the steps to get the vaccine?
     </div><hr></hr>
